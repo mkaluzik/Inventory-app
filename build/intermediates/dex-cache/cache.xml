@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/martin/Plocha/Inventory app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dbe269329841c75173b70822258ab7358e07cff2">
+        <dex dex="/home/martin/Plocha/Inventory app/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1fc1b35b2569e0cb849f9afd53b3815231736c48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/20ec66e743a5ef118ecb2ee1bed62d3d74e2b467/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/home/martin/Plocha/InventoryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e5fc502f82c1795870f9d841147c8a3a3acbfbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/Plocha/InventoryApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="273a712999ecd7b0898258833a6607a70f3be394">
+        <dex dex="/home/martin/Plocha/InventoryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ea488138dda50287ac95453af8f3d76161491418/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/.android/build-cache/b09d1de8d08c1f24fa9ffe04e73668f1cdd54f54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/home/martin/Plocha/InventoryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db23868db08b5502d5fc8278229d7610edd7f9e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/martin/Plocha/InventoryApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/martin/Plocha/InventoryApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6531bfae4f3958d3dcddac0ef962c67e79e1f797/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Currently on stock</string>
+    <string name="sale_button">Sell</string>
+    <string name="new_product">Add new item</string>
+    <string name="hint_email_address">ordermore@ikea.com</string>
+    <string name="supplier_email_title">Supplier e-mail address</string>
+    <string name="supplier_phone_hint">e.g. +420 123-456-789</string>
+    <string name="supplier_phone_title">Supplier phone contact</string>
+    <string name="supplier_name_hint">Inter IKEA Systems B.V.</string>
+    <string name="supplier_name_title">Supplier name</string>
+    <string name="quantity_title">Product quantity</string>
+    <string name="price_title">Product price</string>
+    <string name="product_name_title">Product name</string>
+    <string name="currency_details">¥ / item</string>
+    <string name="action_save">Save item</string>
+    <string name="editor_activity_title_new_item">Add new item</string>
+    <string name="editor_activity_title_edit_item">Edit item</string>
+    <string name="menu_order_item">Order more</string>
+    <string name="menu_delete_item">Delete this item</string>
+    <string name="menu_delete_all_data">Delete all data from DB</string>
+    <string name="phone">Phone</string>
+    <string name="email">E-mail</string>
+    <string name="order_message">Order via Phone or Email?</string>
+    <string name="delete_message">Are you sure you want to delete this?</string>
+    <string name="delete">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_list_text">There are no goods in the stock. Start by ordering some from your suppliers.</string>
+    <string name="action_add_dummy_data">Add some Dummy data</string>
+    <string name="select_image">Select image for this good</string>
+    <string name="image">Image</string>
+    <string name="unsaved_changes_msg">There are some changes that have not been saved. Continue?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep editing</string>
+</resources>
